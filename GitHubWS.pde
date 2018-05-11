@@ -7,5 +7,6 @@ void draw() {
   textAlign(CENTER);
   fill(255,0,0);
   textSize(40);
-  text("Hello world", width/2, height/2 );
+  text("Hello,Git", width/2, height/2 );
+  text("GitHub is God!!",width/2,height/2+50);
 }
