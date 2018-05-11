@@ -8,5 +8,6 @@ void draw() {
   fill(255,0,0);
   textSize(100);
   text("Hello world", width/2, height/2 );
-  text("GitHub is God!!",width/2,height/2+50);
+  fill(0,0,255);
+  text("BeaconFUN 2018",width/2,heigh-1);
 }
